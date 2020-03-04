@@ -2,6 +2,6 @@
 ;;To be used with ScriptPro or similar through AutoCAD Core Console -Without opening the .dwg file-.
 ;;DetachXRefs is an application developed by ALEJANDRO BURGUENO DIAZ.
 ;;
-_.-xref detach *
+_.-xref _detach *
 _.qsave
 ;;
