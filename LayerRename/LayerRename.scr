@@ -1,0 +1,6 @@
+_-layer _rename "A-FLOR" "CB-Pr_20_85_08_66-M_StructSlab" 
+_-layer _rename "A-WALL" "CB-Pr_20_85_08_66-M_StructWalls" 
+_-layer _rename "S-BEAM" "CB-Pr_20_85_08_66-M_StructBeams" 
+_-layer _rename "S-COLS" "CB-Pr_20_85_08_66-M_StructColumns" 
+_qsave
+;;
